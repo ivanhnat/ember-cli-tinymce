@@ -22,7 +22,7 @@ module.exports = {
     }
     return '';
   },
-  included: function (app) {
-    app.import('app/styles/addons.css');
-  },
+  // included: function (app) {
+  //   app.import('app/styles/addons.css');
+  // },
 };
